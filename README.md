@@ -1,3 +1,5 @@
+# chmod 777 -R du dossier!!
+
 ```Typescript (Enregistrement session Texte)```
 
 ```
